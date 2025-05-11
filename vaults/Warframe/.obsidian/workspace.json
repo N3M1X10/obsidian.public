@@ -10,7 +10,7 @@
           {
             "id": "806b0943fefb7363",
             "type": "tabs",
-            "dimension": 65.67704561911658,
+            "dimension": 64.24908424908425,
             "children": [
               {
                 "id": "d5ddae299b6731b7",
@@ -29,7 +29,7 @@
           {
             "id": "b487e387271b5a3f",
             "type": "tabs",
-            "dimension": 34.32295438088342,
+            "dimension": 35.75091575091575,
             "children": [
               {
                 "id": "1b9fde7588d99ba0",
@@ -37,12 +37,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/wiki's/wf.local.guides/Farm Guide.md",
+                    "file": "src/tools/github/wf.github.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Farm Guide"
+                  "title": "wf.github"
                 }
               }
             ]
@@ -215,12 +215,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5ddae299b6731b7",
+  "active": "1b9fde7588d99ba0",
   "lastOpenFiles": [
+    "src/Warframe.md",
+    "src/wiki's/wf.local.guides/warframe.Helminth.md",
+    "src/wiki's/wf.wiki.md",
     "src/wiki's/wf.local.guides/Farm Guide.md",
+    "src/wiki's/wf.local.guides/wf.trading.Arcanes.md",
+    "src/wiki's/wf.local.guides/wf.trading.md",
     "src/tools/warframe.tools.md",
     "src/tools/github/wf.github.md",
-    "src/Warframe.md",
     "src/ToDo/warframe.ToDo.Template.md",
     "src/ToDo/warframe.ToDo.Tasks.md",
     "src/Без названия 2.md",
@@ -228,7 +232,6 @@
     "src/Без названия.md",
     "src/warframe.Helminth.md",
     "src/wiki's/wiki.warframe.com/wiki.warframe.com.md",
-    "src/wiki's/wf.wiki.md",
     "src/wiki's/wiki.warframe.com",
     "src/wiki's/warframe.fandom.com.md",
     "src/wiki's/Farm Guide.md",
@@ -248,9 +251,6 @@
     "src/clan/Black Jack And Hookers.md",
     "warframe.Helminth.md",
     "src/tools/github/N3M1X10/repositories/warframe-batch-tools.md",
-    "src/tools/github/N3M1X10/wf.github.n3m1x10.md",
-    "Games/Warframe/ToDo/warframe.ToDo.Template.md",
-    "Games/Warframe/ToDo/warframe.ToDo.Tasks.md",
     "Games/Space.Engineers",
     "Games/Factorio",
     "Pasted Image 20250504155837_025.png",
