@@ -6,6 +6,12 @@
 - [Репозитории](https://github.com/N3M1X10?tab=repositories)
 - [Stars](https://github.com/N3M1X10?tab=stars)
 ### :LiLayoutList: Репозитории : N3M1X10
+
+#### :LiFolderGit: obsidian.public
+[obsidian.public](https://github.com/N3M1X10/obsidian.public) - Это репозиторий для публикации заметок Obsidian. Там размещаются гайды, шаблоны, ссылки по различным тематикам. Репозиторий разбит на отдельные хранилища для удобства узконаправленного просмотра контента.
+- [Хранилише Warframe](https://github.com/N3M1X10/obsidian.public/tree/master/vaults/Warframe)
+
+
 #### :LiFolderGit: warframe-batch-tools
 [warframe-batch-tools](https://github.com/N3M1X10/warframe-batch-tools) - это репозиторий, предназначенный для упрощения жизни обывателей игры Warframe (немного опытных). 
 В нём собраны различные, самописные, удобные скрипты **powershell** и **windows batch**.
