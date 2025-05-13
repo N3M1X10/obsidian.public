@@ -60,6 +60,46 @@
         "type": "tabs",
         "children": [
           {
+            "id": "e39b9082cb039737",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "621e522465809bb7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c7dfdf23cb829b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4380aca3807a809a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
             "id": "23658092fb1dfb61",
             "type": "leaf",
             "state": {
@@ -104,63 +144,28 @@
               "icon": "lucide-tags",
               "title": "Теги"
             }
-          },
-          {
-            "id": "4380aca3807a809a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура"
-            }
-          },
-          {
-            "id": "621e522465809bb7",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "e39b9082cb039737",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5ddae299b6731b7",
+  "active": "e39b9082cb039737",
   "lastOpenFiles": [
+    "src/ToDo/warframe.ToDo.Template.md",
     "src/github/github.md",
     "src/Warframe.md",
     "src/wiki's/Local Guides/Modules/Helminth.md",
@@ -176,7 +181,6 @@
     "src/wiki's/Local Guides/warframe.Helminth.md",
     "src/wiki's/Local Guides/Farm Guide.md",
     "src/wiki's/Local Guides",
-    "src/ToDo/warframe.ToDo.Template.md",
     "src/ToDo",
     "src/github/N3M1X10/repositories",
     "src/github/wf.github.md",
