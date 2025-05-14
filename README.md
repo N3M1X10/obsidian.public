@@ -3,10 +3,15 @@ My Public Vaults
 
 ## Как установить обновляемое хранилище в своём Obsidian
 
-1. [Качаем репозиторий](https://github.com/N3M1X10/obsidian.public/archive/refs/heads/master.zip) 
-2. Переходим в папку `obsidian.public\vaults`
-3. Открываем нужную папку **как хранилище** в Obsidian
+1. Качаем и устанавливаем [Git](https://git-scm.com/downloads)
+2. Качаем и устанавливаем [Obsidian](https://obsidian.md)
+3. [Качаем репозиторий](https://github.com/N3M1X10/obsidian.public/archive/refs/heads/master.zip) и распаковываем архив
+4. Переходим в папку `obsidian.public\vaults`
+5. Открываем нужную папку **как хранилище** в Obsidian
+6. Убеждаемся что вы включили сторонние плагины, а конкретно проверяем плагин "Git" (Настройки > Сторонние плагины > Включить сторонние плагины > Ищем "Git")
 
 ### Как обновить хранилище до последней версии
 >[!tip]
 > В правом верхнем углу "Развернуть" > Вкладка "Source Control" > Pull
+>
+> Это загрузит последнюю версию этого публичного хранилища
