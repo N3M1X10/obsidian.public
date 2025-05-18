@@ -4,7 +4,7 @@
 [[warframe.fandom.com]] - вики на фандоме
 [Русская Вики](https://warframe.fandom.com/ru/wiki) - Русская вики на фандоме
 ## :LiBookMarked: Местные гайды
-[[Local Guides]] - гайды написанные автором хранилища
+- #### [[Local Guides]] - гайды написанные автором хранилища
 ## :LiDiscord: Discord
 ##### :LiDiscord: NECRO Discord Server
 1. [Войти на сервер NECRO](https://discord.gg/2jJ3Qn4)
