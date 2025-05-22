@@ -8,7 +8,7 @@
 ---
 ```
 ### 🗓️Еженедельные
-- #### `Даты: 00.00.00 - 00.00.00`
+> `Даты: 00.00.00 - 00.00.00`
 #### ⚔️Элит. Миссии (Осколки Архонта)
 - [ ] 🔮Архонт
 - [ ] 🧪Глубинная Архимедия (Требует 2 из 5 поисковых импульсов)
@@ -49,8 +49,8 @@
 - [ ] Зариман
   - [ ] Неукротимые
 - [ ] Деймос
-  - [ ] Кавия (Санктум Анатомика)
   - [ ] Семья Энтрати (Некралиск)
+  - [ ] Кавия (Санктум Анатомика)
 - [ ] Хёльвания
   - [ ] Гекс
 
@@ -73,9 +73,12 @@
 [Источник](https://github.com/N3M1X10/obsidian.public)
 
 ---
-### Примечания Tasks.Plugin
+
+#### Примечания Tasks.Plugin
+##### Плагин
+Используется [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin) для отметки даты выполнения задачи
 ##### Формат даты не настраивается (Date Format is not configurable)
-[github disscussion](https://github.com/obsidian-tasks-group/obsidian-tasks/discussions/69)
-[Support&Help - Known Limitations](https://publish.obsidian.md/tasks/Support+and+Help/Known+Limitations#Known+Limitations) : [Date Format](https://publish.obsidian.md/tasks/Getting+Started/Dates#Date+format+is+not+configurable)
+- [github disscussion](https://github.com/obsidian-tasks-group/obsidian-tasks/discussions/69)
+- [Support&Help - Known Limitations](https://publish.obsidian.md/tasks/Support+and+Help/Known+Limitations#Known+Limitations) : [Date Format](https://publish.obsidian.md/tasks/Getting+Started/Dates#Date+format+is+not+configurable)
 
 ---

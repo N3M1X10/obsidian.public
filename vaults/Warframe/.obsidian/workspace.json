@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5ddae299b6731b7",
+            "id": "8ba66d3c7c2a7e64",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
@@ -163,18 +161,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e39b9082cb039737",
+  "active": "8ba66d3c7c2a7e64",
   "lastOpenFiles": [
-    "src/ToDo/warframe.ToDo.Template.md",
-    "src/github/github.md",
     "src/Warframe.md",
+    "src/github/github.md",
+    "src/wiki's/warframe.fandom.com/warframe.fandom.com.md",
+    "src/wiki's/wiki.md",
+    "src/wiki's/Local Guides/Modules/Weapons/Melee/Throwing Weapons.md",
+    "src/wiki's/Local Guides/Modules/Weapons/Melee/Melee.md",
+    "src/wiki's/Local Guides/Modules/Weapons/Weapons.md",
+    "src/wiki's/Local Guides/Local Guides.md",
+    "src/wiki's/Local Guides/Modules/Open World Orders/Open World.md",
+    "src/ToDo/warframe.ToDo.Template.md",
     "src/wiki's/Local Guides/Modules/Helminth.md",
     "src/wiki's/Local Guides/Modules/Trading.md",
     "src/wiki's/Local Guides/Modules/Trading.Arcanes.md",
     "src/wiki's/Local Guides/Modules/Farm Guide.md",
     "src/wiki's/Local Guides/Modules",
-    "src/wiki's/Local Guides/Local Guides.md",
-    "src/wiki's/warframe.fandom.com/warframe.fandom.com.md",
     "src/wiki's/warframe.fandom.com",
     "src/wiki's/Local Guides/wf.trading.md",
     "src/wiki's/Local Guides/wf.trading.Arcanes.md",
@@ -193,11 +196,6 @@
     "src/wiki's/wf.wiki.md",
     "src/wiki's/wf.local.guides/Farm Guide.md",
     "src/wiki's/wf.local.guides/wf.trading.Arcanes.md",
-    "src/wiki's/wf.local.guides/wf.trading.md",
-    "src/tools/warframe.tools.md",
-    "src/ToDo/warframe.ToDo.Tasks.md",
-    "src/Без названия 2.md",
-    "src/Без названия 1.md",
     "src/wiki's/wiki.warframe.com",
     "src/wiki's",
     "src/tools/github/N3M1X10/repositories",
